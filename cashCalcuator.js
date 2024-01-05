@@ -11,7 +11,6 @@ const et2=document.getElementById("et2")
 const et1=document.getElementById("et1")
 
 
-
 const txt2000=document.getElementById("txt2000")
 const txt500=document.getElementById("txt500")
 const txt200=document.getElementById("txt200")
